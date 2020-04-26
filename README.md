@@ -1,2 +1,3 @@
-# HelloWorld
-Same play
+# Hello World !
+Same player shoot again !
+Remember the pinballs... 
